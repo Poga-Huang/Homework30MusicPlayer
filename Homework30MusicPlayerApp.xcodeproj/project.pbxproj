@@ -9,21 +9,37 @@
 /* Begin PBXBuildFile section */
 		D664D0662759A8D9003D23F8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D664D0652759A8D9003D23F8 /* AppDelegate.swift */; };
 		D664D0682759A8D9003D23F8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D664D0672759A8D9003D23F8 /* SceneDelegate.swift */; };
-		D664D06A2759A8D9003D23F8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D664D0692759A8D9003D23F8 /* ViewController.swift */; };
 		D664D06D2759A8D9003D23F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D664D06B2759A8D9003D23F8 /* Main.storyboard */; };
 		D664D06F2759A8E1003D23F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D664D06E2759A8E1003D23F8 /* Assets.xcassets */; };
 		D664D0722759A8E1003D23F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D664D0702759A8E1003D23F8 /* LaunchScreen.storyboard */; };
+		D664D0802759AC65003D23F8 /* 想見你想見你想見你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D664D07C2759AC65003D23F8 /* 想見你想見你想見你.mp3 */; };
+		D664D0812759AC65003D23F8 /* 備胎.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D664D07D2759AC65003D23F8 /* 備胎.mp3 */; };
+		D664D0822759AC65003D23F8 /* 如果能幸福.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D664D07E2759AC65003D23F8 /* 如果能幸福.mp3 */; };
+		D664D0842759AFA7003D23F8 /* MusicPlayerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D664D0832759AFA7003D23F8 /* MusicPlayerTableViewController.swift */; };
+		D664D0862759BEB2003D23F8 /* CDImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D664D0852759BEB1003D23F8 /* CDImage.swift */; };
+		D664D08A2759C411003D23F8 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = D664D0892759C411003D23F8 /* MyParticle.sks */; };
+		D664D08C2759DB31003D23F8 /* 好愛好散.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D664D08B2759DB30003D23F8 /* 好愛好散.mp3 */; };
+		D664D08E2759DC74003D23F8 /* 如果可以.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D664D08D2759DC74003D23F8 /* 如果可以.mp3 */; };
+		D664D092275A4246003D23F8 /* SongData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D664D091275A4246003D23F8 /* SongData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D664D0622759A8D9003D23F8 /* Homework30MusicPlayerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Homework30MusicPlayerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D664D0652759A8D9003D23F8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D664D0672759A8D9003D23F8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D664D0692759A8D9003D23F8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D664D06C2759A8D9003D23F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D664D06E2759A8E1003D23F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D664D0712759A8E1003D23F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D664D0732759A8E1003D23F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D664D07C2759AC65003D23F8 /* 想見你想見你想見你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "想見你想見你想見你.mp3"; sourceTree = "<group>"; };
+		D664D07D2759AC65003D23F8 /* 備胎.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "備胎.mp3"; sourceTree = "<group>"; };
+		D664D07E2759AC65003D23F8 /* 如果能幸福.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "如果能幸福.mp3"; sourceTree = "<group>"; };
+		D664D0832759AFA7003D23F8 /* MusicPlayerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicPlayerTableViewController.swift; sourceTree = "<group>"; };
+		D664D0852759BEB1003D23F8 /* CDImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDImage.swift; sourceTree = "<group>"; };
+		D664D0892759C411003D23F8 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
+		D664D08B2759DB30003D23F8 /* 好愛好散.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "好愛好散.mp3"; sourceTree = "<group>"; };
+		D664D08D2759DC74003D23F8 /* 如果可以.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "如果可以.mp3"; sourceTree = "<group>"; };
+		D664D091275A4246003D23F8 /* SongData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +74,19 @@
 			children = (
 				D664D0652759A8D9003D23F8 /* AppDelegate.swift */,
 				D664D0672759A8D9003D23F8 /* SceneDelegate.swift */,
-				D664D0692759A8D9003D23F8 /* ViewController.swift */,
 				D664D06B2759A8D9003D23F8 /* Main.storyboard */,
+				D664D0892759C411003D23F8 /* MyParticle.sks */,
+				D664D0832759AFA7003D23F8 /* MusicPlayerTableViewController.swift */,
+				D664D091275A4246003D23F8 /* SongData.swift */,
+				D664D0852759BEB1003D23F8 /* CDImage.swift */,
 				D664D06E2759A8E1003D23F8 /* Assets.xcassets */,
 				D664D0702759A8E1003D23F8 /* LaunchScreen.storyboard */,
 				D664D0732759A8E1003D23F8 /* Info.plist */,
+				D664D08D2759DC74003D23F8 /* 如果可以.mp3 */,
+				D664D07D2759AC65003D23F8 /* 備胎.mp3 */,
+				D664D07E2759AC65003D23F8 /* 如果能幸福.mp3 */,
+				D664D07C2759AC65003D23F8 /* 想見你想見你想見你.mp3 */,
+				D664D08B2759DB30003D23F8 /* 好愛好散.mp3 */,
 			);
 			path = Homework30MusicPlayerApp;
 			sourceTree = "<group>";
@@ -125,9 +149,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D664D0822759AC65003D23F8 /* 如果能幸福.mp3 in Resources */,
+				D664D0812759AC65003D23F8 /* 備胎.mp3 in Resources */,
+				D664D08C2759DB31003D23F8 /* 好愛好散.mp3 in Resources */,
+				D664D08A2759C411003D23F8 /* MyParticle.sks in Resources */,
 				D664D0722759A8E1003D23F8 /* LaunchScreen.storyboard in Resources */,
 				D664D06F2759A8E1003D23F8 /* Assets.xcassets in Resources */,
+				D664D08E2759DC74003D23F8 /* 如果可以.mp3 in Resources */,
 				D664D06D2759A8D9003D23F8 /* Main.storyboard in Resources */,
+				D664D0802759AC65003D23F8 /* 想見你想見你想見你.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +168,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D664D06A2759A8D9003D23F8 /* ViewController.swift in Sources */,
 				D664D0662759A8D9003D23F8 /* AppDelegate.swift in Sources */,
 				D664D0682759A8D9003D23F8 /* SceneDelegate.swift in Sources */,
+				D664D0862759BEB2003D23F8 /* CDImage.swift in Sources */,
+				D664D092275A4246003D23F8 /* SongData.swift in Sources */,
+				D664D0842759AFA7003D23F8 /* MusicPlayerTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
